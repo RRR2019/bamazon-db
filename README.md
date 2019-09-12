@@ -19,11 +19,11 @@ Bamazon displays inventory, takes in orders, checks stock  and shows user total 
 * If there is enough stock user will be prompted with total amount due, if there is not enough stock console will tell user how many products are in stock of that product.
 * DB will be updated with new stock.
 ## Screenshots
-https://postimg.cc/4K2v85HW
-https://postimg.cc/7GC3j2gw
-https://postimg.cc/K4M7NtG5
-https://postimg.cc/zb9CNGjW
-https://postimg.cc/JHZbzC6F
+* https://postimg.cc/4K2v85HW
+* https://postimg.cc/7GC3j2gw
+* https://postimg.cc/K4M7NtG5
+* https://postimg.cc/zb9CNGjW
+* https://postimg.cc/JHZbzC6F
 
 
 
